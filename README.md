@@ -1,4 +1,11 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+The "My Bike Landing Page" project is a landing page created for a company specializing in bicycles. The company offers a wide range of services including bicycle sales, repairs and maintenance, accessories, and related products.
+
+Technologies used in this project include:
+
+HTML5 and CSS3 for markup and styling
+Gulp for building the project
+SCSS for styling
+Stylelint for linting
+Git for version control and code storage on a remote server
+
+The project demonstrates the use of modern technologies for building a landing page that could serve as a foundation for a company's website.
